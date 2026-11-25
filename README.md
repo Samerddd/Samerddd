@@ -1,16 +1,13 @@
-## Hi there 👋
+# Samer Daraghmeh
 
-<!--
-**Samerddd/Samerddd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build responsive web applications with React, Node.js, and REST APIs. I enjoy taking a feature from the user interface through to the API and database.
 
-Here are some ideas to get you started:
+## Technical focus
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Frontend: React, JavaScript, and responsive interfaces
+- Backend: Node.js, Express, and REST APIs
+- Data and tooling: SQL, MySQL, Git, and Postman
+
+## Featured project
+
+- [Santiago Store](https://github.com/Samerddd/Santiago-Store11) — a JavaScript project for a sports store.
